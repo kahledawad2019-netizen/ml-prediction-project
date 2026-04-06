@@ -1,6 +1,6 @@
 # ML Prediction Project
 
-A machine learning project focused on body performance analysis and prediction.
+A machine learning project for body performance analysis and prediction.
 
 ## Project Files
 
@@ -26,4 +26,4 @@ This project uses machine learning techniques to analyze and predict body perfor
 
 - Python 3.x
 - Jupyter Notebook
-- Standard ML libraries (pandas, numpy, scikit-learn, etc.)
+- pandas, numpy, scikit-learn
