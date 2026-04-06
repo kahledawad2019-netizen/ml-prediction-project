@@ -118,7 +118,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Hazem Shokr**
+**Khaled Metwalie**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kahledawad2019--netizen-181717?style=flat&logo=github)](https://github.com/kahledawad2019-netizen)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:hs29306060202959@depi.eui.edu.eg)
